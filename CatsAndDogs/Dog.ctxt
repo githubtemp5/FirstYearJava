@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=dogName\ dogWeight\ dogFood
+comment0.target=Dog(java.lang.String,\ double,\ java.lang.String)
+comment1.params=dogName
+comment1.target=Dog(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=newWeight
+comment5.target=void\ setWeight(double)
+comment6.params=
+comment6.target=java.lang.String\ getPrefFood()
+comment7.params=newFood
+comment7.target=void\ setPrefFood(java.lang.String)
+comment8.params=
+comment8.target=void\ bark()
+comment9.params=
+comment9.target=void\ feeding()
+numComments=10
