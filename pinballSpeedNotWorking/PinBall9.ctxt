@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ color\ radius\ theMachine
+comment0.target=PinBall9(int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ Machine)
+comment1.params=
+comment1.target=void\ changeFlashState()
+comment1.text=\r\n\ Inverts\ the\ shouldFlash\ boolean,\ overrides\ changeFlashState\r\n
+comment2.params=
+comment2.target=boolean\ isFlashing()
+comment2.text=\r\n\ Returns\ the\ current\ flashing\ state\ as\ a\ boolean\r\n
+comment3.params=
+comment3.target=void\ changeFlashColour()
+comment3.text=\r\n\ Changes\ the\ current\ colour\ between\ original\ white\r\n
+numComments=4

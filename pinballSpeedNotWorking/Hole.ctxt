@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ objectRadius\ theMachine
+comment0.target=Hole(int,\ int,\ int,\ Machine)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hole\r\n\ \r\n
+numComments=1
