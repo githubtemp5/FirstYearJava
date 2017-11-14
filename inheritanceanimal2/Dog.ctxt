@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=animalFood\ animalHome
+comment0.target=Dog(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=boolean\ playtimeWanted()
+comment2.params=
+comment2.target=void\ play()
+numComments=3

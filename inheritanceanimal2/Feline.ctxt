@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Feline()
+comment1.params=animalFood\ animalHome\ animalNoise
+comment1.target=Feline(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ purr()
+comment3.params=
+comment3.target=java.lang.String\ getHome()
+numComments=4

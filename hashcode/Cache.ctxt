@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_latency
+comment0.target=Cache(int)
+comment1.params=
+comment1.target=int\ getLatency()
+numComments=2

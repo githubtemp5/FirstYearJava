@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=animalFood\ animalHome\ animalNoise
+comment0.target=Animal(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=boolean\ getHunger()
+comment2.params=
+comment2.target=void\ eat()
+comment3.params=
+comment3.target=void\ makeNoise()
+comment4.params=
+comment4.target=void\ sleep()
+numComments=5
