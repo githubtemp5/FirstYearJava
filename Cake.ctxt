@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=customerName\ cakeType\ cakeWriting\ noCandles
+comment0.target=Cake(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getWriting()
+comment2.params=newWriting
+comment2.target=void\ changeWriting(java.lang.String)
+comment3.params=
+comment3.target=int\ getCandles()
+comment4.params=newCandles
+comment4.target=void\ changeCandles(int)
+comment5.params=
+comment5.target=void\ print()
+numComments=6
