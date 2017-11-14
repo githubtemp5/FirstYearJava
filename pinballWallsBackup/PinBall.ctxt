@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ objectColor\ objectRadius\ theMachine\ property1\ property2
+comment0.target=PinBall(int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ Machine,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PinBall\r\n\ \r\n\ @param\ xPos\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ horizontal\ coordinate\ of\ the\ object\r\n\ @param\ yPos\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ vertical\ coordinate\ of\ the\ object\r\n\ @param\ xVel\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ horizontal\ speed\ of\ the\ object\r\n\ @param\ yVel\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ vertical\ speed\ of\ the\ object\ \ \r\n\ @param\ objectRadius\ \ \ \ \ \ \ \ \ \ the\ radius\ (in\ pixels)\ of\ the\ object\r\n\ @param\ objectColor\ \ \ \ \ \ \ \ \ \ \ the\ color\ of\ the\ object\r\n\ @param\ theMachine\ \ \ \ \ \ \ \ \ \ \ \ the\ machine\ this\ object\ is\ in\r\n\ @param\ property1\ \ \ \ \ \ \ \ \ \ \ \ \ the\ property\ when\ it\ bounces\ to\ a\ bumper\r\n\ @param\ property2\ \ \ \ \ \ \ \ \ \ \ \ \ the\ property\ when\ it\ bounces\ to\ other\ pinball\r\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ Move\ this\ object\ according\ to\ its\ position\ and\ speed\ and\ redraw.\r\n
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\r\n\ return\ the\ current\ score\ of\ the\ pinball\r\n
+comment3.params=
+comment3.target=int\ property1Index()
+comment3.text=\r\n\ return\ the\ index\ of\ the\ first\ property\ for\ the\ pinball\r\n
+comment4.params=
+comment4.target=int\ property2Index()
+comment4.text=\r\n\ returns\ the\ index\ of\ the\ second\ property\ for\ the\ pinball\r\n
+numComments=5
