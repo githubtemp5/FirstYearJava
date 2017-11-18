@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Demo\r\n
+comment1.params=
+comment1.target=void\ sampleDemo()
+comment1.text=\r\n\ Sample\ demo\ method\ -\ demonstrates\ what\ happens\ when\ an\ object\ rebounds\ off\ the\ left-hand\ wall\r\n
+comment2.params=
+comment2.target=void\ displayFinalScore()
+comment2.text=\r\n\ Adds\ scores\ for\ all\ the\ balls\ and\ displays\ it\ onto\ the\ screen\r\n
+numComments=3

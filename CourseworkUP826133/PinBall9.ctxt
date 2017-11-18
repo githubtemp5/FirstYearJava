@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ xVel\ yVel\ color\ radius\ theMachine
+comment0.target=PinBall9(int,\ int,\ int,\ int,\ java.awt.Color,\ int,\ Machine)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PinBall9\r\n\ @param\ xPos\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ horizontal\ coordinate\ of\ the\ object\r\n\ @param\ yPos\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ vertical\ coordinate\ of\ the\ object\r\n\ @param\ xVel\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ horizontal\ speed\ of\ the\ object\r\n\ @param\ yVel\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ vertical\ speed\ of\ the\ object\ \ \r\n\ @param\ objectRadius\ \ \ \ \ \ \ \ \ \ the\ radius\ (in\ pixels)\ of\ the\ object\r\n\ @param\ objectColor\ \ \ \ \ \ \ \ \ \ \ the\ color\ of\ the\ object\r\n\ @param\ theMachine\ \ \ \ \ \ \ \ \ \ \ \ the\ machine\ this\ object\ is\ in\r\n
+comment1.params=
+comment1.target=void\ changeFlashState()
+comment2.params=
+comment2.target=boolean\ isFlashing()
+comment3.params=
+comment3.target=void\ changeFlashColour()
+numComments=4
